@@ -1,1 +1,0 @@
-# REDIS HASH TABLE
